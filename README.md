@@ -8,7 +8,7 @@ In this assignment, You'll create a Trivia game using JavaScript for the logic a
 
 1. Create a GitHub repo and call it what you want, then clone the repo to your computer.
 
-2. Create a file inside of the `TriviaGame` folder called `index.html`. This is where you'll mark up all of your HTML.
+2. Create a file inside of the root directory called `index.html`. This is where you'll mark up all of your HTML.
 3. Don't forget to include a script tag with the jQuery library.
 
 4. Create a folder inside of the `TriviaGame` folder called `assets`.
