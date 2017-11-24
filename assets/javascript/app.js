@@ -5,34 +5,34 @@ $(document).ready(function() {
 
   // Creating an object to hold our questions.
   let questions = [{
-    question: "What was Daniela's first car?",
-    answers: ["Honda Civic", "Jeep Wrangler", "Toyota Camry", "Nissan Sentra"],
-    correctAnswer: "Nissan Sentra"
+    question: "What is the capital of Arizona?",
+    answers: ["Phoenix", "Scottsdale", "Tempe", "Tucson"],
+    correctAnswer: "Phoenix"
   },
   {
-    question: "What is Daniela's main dog's name?",
-    answers: ["Reeces", "Snickers", "Stewie", "Lola"],
-    correctAnswer: "Snickers"
+    question: "What is the capital of Maryland?",
+    answers: ["Annapolis", "Baltimore", "Bethesda", "Columbia"],
+    correctAnswer: "Annapolis"
   },
   {
-    question: "Where was Daniela born?",
-    answers: ["Argentina", "Virginia", "Portugal", "Angola"],
-    correctAnswer: "Portugal"
+    question: "What is the capital of Alabama?",
+    answers: ["Mobile", "Birmingham", "Auburn", "Montgomery"],
+    correctAnswer: "Montgomery"
   },
   {
-    question: "When does Daniela find it okay to NOT pee in a restroom?",
-    answers: ["During a hike", "In an emergency and theres not bathroom in sight", "When the laughing can't stop", "All of the above"],
-    correctAnswer: "All of the above"
+    question: "What is the capital of New York",
+    answers: ["Buffalo", "Albany", "Rochester", "New York"],
+    correctAnswer: "Albany"
   },
   {
-    question: "True or False: Did Daniela have braces for 2 years to fix her grill?",
-    answers: ["TRUUUUUE", "False"],
-    correctAnswer: "TRUUUUUE"
+    question: "What is the capital of California",
+    answers: ["Los Angeles", "San Francisco", "Sacramento", "San Diego"],
+    correctAnswer: "Sacramento"
   },
   {
-    question: "What is a sure fire way to get Daniela's attention and see that million dollar smile?",
-    answers: ["Hey Daniela", "Ayo D", "Excuse me miss", "OYE FEA!"],
-    correctAnswer: "OYE FEA!"
+    question: "What is the capital of Wyoming?",
+    answers: ["Jackson", "Casper", "Cheyenne", "Laramie"],
+    correctAnswer: "Cheyenne"
   }];
 
   // variables to hold our set interval and counter
